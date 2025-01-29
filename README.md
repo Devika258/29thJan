@@ -1,2 +1,5 @@
 # 29thJan
-Day 1 Lab at University of Lincoln.
+<br>
+<b>Day 1</b> 
+<br>
+Lab at University of Lincoln.
